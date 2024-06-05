@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "id": "74e2",
+      "name": "juan",
+      "email": "juanfer20091403@gmail.com",
+      "birthdate": "2024-06-19",
+      "password": "juan",
+      "roleId": 1
+    },
+    {
+      "id": "0dee",
+      "name": "juan",
+      "email": "gafasfsa@faf",
+      "birthdate": "2024-06-19",
+      "password": "juan",
+      "roleId": 2
+    },
+    {
+      "id": "55f4",
+      "name": "juan",
+      "email": "prueba@gmail.com",
+      "birthdate": "2024-06-13",
+      "password": "juan",
+      "roleId": 2
+    }
+  ],
+  "flights": [],
+  "role": [
+    {
+      "id": "1",
+      "name": "admin"
+    },
+    {
+      "id": "2",
+      "name": "user"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "6603",
+      "flightId": null,
+      "userId": "55f4"
+    },
+    {
+      "id": "e298",
+      "flightId": null,
+      "userId": "55f4"
+    },
+    {
+      "id": "0669",
+      "flightId": null,
+      "userId": "55f4"
+    },
+    {
+      "id": "fc80",
+      "flightId": null,
+      "userId": "55f4"
+    }
+  ]
+}
